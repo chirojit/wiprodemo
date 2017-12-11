@@ -1,7 +1,7 @@
 <html>
 <title>
 DEMO WEB APP
-</little>
+</title>
 <body>
 <h1>
 Welcome to Azure Web Apps!!
